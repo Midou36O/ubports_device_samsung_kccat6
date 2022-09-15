@@ -6,7 +6,7 @@
 
 
 - To install ubports:
-  1. Download the `halium-boot.img` and [`system.img`](https://cloud.projectsegfau.lt/s/tZgqXc2Xr4XHWNG) (blame github for not allowing files over 200mb).
+  1. Download the `halium-boot.img` and [`system.img`](https://cloud.projectsegfau.lt/s/fbHDfWpwbyEb3b6) (blame github for not allowing files over 200mb).
   2. Get [halium-install](https://gitlab.com/JBBgameich/halium-install)
   3. Get a [rootfs image from ubuntu touch](https://ci.ubports.com/job/xenial-hybris-android9-rootfs-armhf/)
   4. Go into Download Mode and plug your device to your computer. 
